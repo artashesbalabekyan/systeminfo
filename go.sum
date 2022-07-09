@@ -1,0 +1,4 @@
+github.com/groob/plist v0.0.0-20220217120414-63fa881b19a5 h1:saaSiB25B1wgaxrshQhurfPKUGJ4It3OxNJUy0rdOjU=
+github.com/groob/plist v0.0.0-20220217120414-63fa881b19a5/go.mod h1:itkABA+w2cw7x5nYUS/pLRef6ludkZKOigbROmCTaFw=
+github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58 h1:onHthvaw9LFnH4t2DcNVpwGmV9E1BkGknEliJkfwQj0=
+github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58/go.mod h1:DXv8WO4yhMYhSNPKjeNKa5WY9YCIEBRbNzFFPJbWO6Y=
